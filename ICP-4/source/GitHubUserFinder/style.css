@@ -1,0 +1,17 @@
+#profile{
+  margin-top: 20px;
+}
+
+body {
+  background-image: url('./background.png');
+}
+
+.round-image {
+  border-radius: 50%;
+}
+#error{
+  text-align: center;
+}
+h5#name {
+  font-family: serif;
+}
