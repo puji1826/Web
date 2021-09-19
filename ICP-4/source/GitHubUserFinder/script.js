@@ -21,7 +21,7 @@ function showUser(gituser) {
         '</br><span>Id: </span>' +gituser.id +
         '</br><span>Public Repos: </span>' + gituser.public_repos +
         '</br><span>Created At: </span>' + gituser.created_at +
-        '</br><span>Github URL: </span>' + gituser.html_url +
+        '</br><span>Github URL: </span>' + link +
         '</br><span>Prof last Updated on: </span>' + gituser.updated_at +
         '</br><span>Bio: </span>' + gituser.bio +
         '</br><span>Blog: </span>' + gituser.blog + '</br><span>Location: </span>' + gituser.location)
